@@ -1,0 +1,15 @@
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/obj/Debug/netcoreapp2.1/TestForIndigestion.csprojAssemblyReference.cache
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/obj/Debug/netcoreapp2.1/TestForIndigestion.csproj.CoreCompileInputs.cache
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/obj/Debug/netcoreapp2.1/TestForIndigestion.AssemblyInfoInputs.cache
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/obj/Debug/netcoreapp2.1/TestForIndigestion.AssemblyInfo.cs
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/TestForIndigestion.deps.json
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/TestForIndigestion.runtimeconfig.json
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/TestForIndigestion.runtimeconfig.dev.json
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/TestForIndigestion.dll
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/TestForIndigestion.pdb
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/obj/Debug/netcoreapp2.1/TestForIndigestion.dll
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/obj/Debug/netcoreapp2.1/TestForIndigestion.pdb
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/nunit.engine.dll
+/Users/itsjoeweiner/Projects/Indigestion/Indigestion/TestForIndigestion/bin/Debug/netcoreapp2.1/nunit.engine.api.dll
